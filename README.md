@@ -1,1 +1,1 @@
-# teacher-copilot
+# Teacher-Copilot
