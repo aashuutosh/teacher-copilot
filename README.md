@@ -1,6 +1,15 @@
 ```markdown
 # 🧑‍🏫 Teacher Copilot: AI Feedback Engine for Teachers
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AI-LLM_Powered-FF6F00?style=for-the-badge" alt="AI">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
+</div>
+
+<br>
+
 **Teacher Copilot** is an intelligent, AI-powered assistant built to evaluate student coursework efficiently. By automating repetitive feedback and identifying class-wide learning gaps, it significantly reduces grading time while ensuring teachers remain in complete control of the final output.
 
 ## 📌 The Problem
