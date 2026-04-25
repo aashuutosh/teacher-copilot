@@ -91,7 +91,7 @@ Follow these instructions to set up the project locally on your machine.
 ## Other Contributors:
 **Himanshu Saurabh**
  * Github: @himanshusaurabh0411
- * 
+    
 **Atharv Singh Raghuvanshi**
  * Github: @Atharv-Git-1216
 
