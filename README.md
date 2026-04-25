@@ -88,6 +88,14 @@ Follow these instructions to set up the project locally on your machine.
 ## 👨‍💻 Author
 **Ashutosh Pratap Singh**
  * GitHub: @aashuutosh
+## Other Contributors:
+**Himanshu Saurabh**
+ * Github: @himanshusaurabh0411
+**Atharv Singh Raghuvanshi**
+ * Github: @Atharv-Git-1216
+**Aniruddh Mishra**
+ * Github: @mishraaniruddh90-lgtm
+
 *If you find this project helpful, please consider giving it a ⭐ on GitHub!*
 ```
 
